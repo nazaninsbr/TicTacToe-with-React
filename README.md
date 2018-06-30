@@ -1,3 +1,9 @@
+# Tic Tac Toe with React 
+
+this is a Tic Tac Toe game based on the tutorial on the React website. the node_modules have not been added. 
+
+<hr>
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
